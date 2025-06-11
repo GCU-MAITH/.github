@@ -1,12 +1,62 @@
-## Hi there 👋
+# 🧠 MAITH (Math + AI))
 
-<!--
+**MAITH**는 LLM과 지식그래프를 활용해, 학습자 맞춤형 수학 문제를 자동 생성하고 제공하는 차세대 수학 학습 플랫폼입니다.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🎯 Vision
+
+> "수학은 AI가, 학습은 나답게."
+
+- 학습자 수준에 맞는 문제를 AI가 자동 생성
+- 지식 그래프를 통해 선행/유사 개념을 연계 학습
+- 커뮤니티와 문제 모음 기능을 통해 학습자 간 소통 가능
+
+---
+
+## 📦 서비스 구성
+
+- **메인 페이지**: 서비스 개요, 사용법 소개
+- **마이페이지**: 사용자 정보 및 진행 상황 확인
+- **문제 생성**: LLM 기반 맞춤 문제 생성
+- **문제 모음**: 생성한 문제 및 풀이 관리
+- **커뮤니티**: 사용자 간 질문/답변 및 정보 공유
+- **공지사항 / 고객센터**: 사용자 소통 채널
+
+---
+
+## 🛠️ 기술 스택
+
+| 영역        | 기술 구성                                                                 |
+|-------------|--------------------------------------------------------------------------|
+| 프론트엔드   | React, Tailwind CSS, Axios                                               |
+| 백엔드       | Express.js, Node.js, RESTful API                                         |
+| AI/LLM      | Ollama, Prompt Engineering, Neo4j(Knowledge Graph) |
+| 데이터베이스 | MySQL                                                                  |
+| 인프라       | Docker, NAS 서버, GPU 가속 환경, LLM 컨테이너 운영 최적화            |
+
+---
+
+## 💰 수익화 전략
+
+- **프리미엄 플랜** 도입
+  - 일부 기능은 무료 제공
+  - 고급 문제 추천, 학습 리포트, 맞춤형 학습 코칭 등은 유료 플랜에서 제공
+
+---
+
+## 👨‍👩‍👧‍👦 Team MAITH
+
+| 이름       | 역할                      |
+|------------|---------------------------|
+| 김병준      | FrontEnd Developer |
+| 박상희     | Frontend Developer             |
+| 성태헌     | AI Developer        |
+| 성철빈     | BackeEnd & Infra Developer   |
+
+---
+
+## 📞 Contact
+
+> MAITH는 학습의 본질을 고민합니다.  
+> 문제 풀이가 아닌, ‘이해’를 중심으로 수학을 바라보는 당신을 기다립니다.
