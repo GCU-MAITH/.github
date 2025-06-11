@@ -29,11 +29,11 @@
 
 | 영역        | 기술 구성                                                                 |
 |-------------|--------------------------------------------------------------------------|
-| 프론트엔드   | React, Tailwind CSS, Axios                                               |
-| 백엔드       | Express.js, Node.js, RESTful API                                         |
+| FrontEnd   | React, Tailwind CSS, Axios                                               |
+| BackEnd       | Express.js, Node.js, RESTful API                                         |
 | AI/LLM      | Ollama, Prompt Engineering, Neo4j(Knowledge Graph) |
-| 데이터베이스 | MySQL                                                                  |
-| 인프라       | Docker, NAS 서버, GPU 가속 환경, LLM 컨테이너 운영 최적화            |
+| DataBase | MySQL                                                                  |
+| Infrastructure       | Docker, NAS 서버, GPU 가속 환경, LLM 컨테이너 운영 최적화            |
 
 ---
 
